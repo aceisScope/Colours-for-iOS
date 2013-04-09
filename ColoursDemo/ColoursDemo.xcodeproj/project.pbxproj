@@ -27,6 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		04626DE117143242005EE6E5 /* TraditionalChineseColours.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TraditionalChineseColours.h; sourceTree = "<group>"; };
 		C06758B216F6824200CE7AA1 /* ColoursDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ColoursDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C06758B516F6824200CE7AA1 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		C06758B716F6824200CE7AA1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -100,6 +101,7 @@
 		C06758BB16F6824200CE7AA1 /* ColoursDemo */ = {
 			isa = PBXGroup;
 			children = (
+				04626DE117143242005EE6E5 /* TraditionalChineseColours.h */,
 				C06758D916F6836100CE7AA1 /* Colours.h */,
 				C06758DA16F6836100CE7AA1 /* Colours.m */,
 				C06758C416F6824200CE7AA1 /* AppDelegate.h */,

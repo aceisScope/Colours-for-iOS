@@ -192,3 +192,9 @@ Reap What I Sow!
 ================
 
 This project is distributed under the standard MIT License. Please use this and twist it in whatever fashion you wish - and recommend any cool changes to help the code.
+
+Traditional Chinese Colours 
+================
+**TradtitionalChineseColours.h** is an extension for colours specifically defined in traditional Chinese paintings. 
+Each colour is commented with Chinese names by the end of the code line, so as to refer the images below.
+![ScreenShot](https://raw.github.com/aceisScope/Colours-for-iOS/master/Screenshots/chinese-reds.png)
