@@ -197,4 +197,7 @@ Traditional Chinese Colours
 ================
 **TradtitionalChineseColours.h** is an extension for colours specifically defined in traditional Chinese paintings. 
 Each colour is commented with Chinese names by the end of the code line, so as to refer the images below.
-![ScreenShot](https://raw.github.com/aceisScope/Colours-for-iOS/master/Screenshots/chinese-reds.png)
+![ScreenShot](https://raw.github.com/aceisScope/Colours-for-iOS/master/Screenshots/chinese-reds.png)![ScreenShot](https://raw.github.com/aceisScope/Colours-for-iOS/master/Screenshots/chinese-yellows.png)
+![ScreenShot](https://raw.github.com/aceisScope/Colours-for-iOS/master/Screenshots/chinese-browns.png)![ScreenShot](https://raw.github.com/aceisScope/Colours-for-iOS/master/Screenshots/chinese-greens.png)
+![ScreenShot](https://raw.github.com/aceisScope/Colours-for-iOS/master/Screenshots/chinese-blues.png)![ScreenShot](https://raw.github.com/aceisScope/Colours-for-iOS/master/Screenshots/chinese-purples.png)
+![ScreenShot](https://raw.github.com/aceisScope/Colours-for-iOS/master/Screenshots/chinese-blacks.png)
