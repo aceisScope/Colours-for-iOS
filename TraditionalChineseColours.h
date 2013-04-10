@@ -52,3 +52,38 @@
 #define ColorChijin [UIColor colorWithRed:242/255.0f green:190/255.0f blue:69/255.0f alpha:1.0] //赤金
 #define ColorYahuang [UIColor colorWithRed:250/255.0f green:255/255.0f blue:114/255.0f alpha:1.0] //鸭黄
 #define ColorEhuang [UIColor colorWithRed:255/255.0f green:241/255.0f blue:67/255.0f alpha:1.0] //鹅黄
+#define ColorQiuxiangse [UIColor colorWithRed:217/255.0f green:182/255.0f blue:17/255.0f alpha:1.0] //秋香色
+
+//browns
+#define ColorHupo [UIColor colorWithRed:202/255.0f green:105/255.0f blue:36/255.0f alpha:1.0] //琥珀
+#define ColorZongse [UIColor colorWithRed:178/255.0f green:93/255.0f blue:37/255.0f alpha:1.0] //棕色
+#define ColorZonghong [UIColor colorWithRed:155/255.0f green:68/255.0f blue:0/255.0f alpha:1.0] //棕红
+#define ColorZonghuang [UIColor colorWithRed:174/255.0f green:112/255.0f blue:0/255.0f alpha:1.0] //棕黄
+#define ColorZonghei [UIColor colorWithRed:124/255.0f green:75/255.0f blue:0/255.0f alpha:1.0] //棕黑
+#define ColorHese [UIColor colorWithRed:110/255.0f green:81/255.0f blue:30/255.0f alpha:1.0] //褐色
+#define ColorQiuse [UIColor colorWithRed:137/255.0f green:108/255.0f blue:57/255.0f alpha:1.0] //秋色
+
+//greens
+#define ColorZhuqing [UIColor colorWithRed:120/255.0f green:146/255.0f blue:98/255.0f alpha:1.0] //竹青
+#define ColorZonglv [UIColor colorWithRed:130/255.0f green:113/255.0f blue:0/255.0f alpha:1.0] //棕绿
+#define ColorHunhuang [UIColor colorWithRed:200/255.0f green:155/255.0f blue:64/255.0f alpha:1.0] //昏黄
+#define ColorKuhuang [UIColor colorWithRed:211/255.0f green:117/255.0f blue:125/255.0f alpha:1.0] //枯黄
+#define ColorYingcaose [UIColor colorWithRed:234/255.0f green:255/255.0f blue:86/255.0f alpha:1.0] //樱草色
+#define ColorLiuhuang [UIColor colorWithRed:201/255.0f green:221/255.0f blue:34/255.0f alpha:1.0] //柳黄
+#define ColorNenlv [UIColor colorWithRed:189/255.0f green:221/255.0f blue:34/255.0f alpha:1.0] //嫩绿
+#define ColorLiulv [UIColor colorWithRed:175/255.0f green:221/255.0f blue:34/255.0f alpha:1.0] //柳绿
+#define ColorConglv [UIColor colorWithRed:185/255.0f green:217/255.0f blue:0/255.0f alpha:1.0] //葱绿
+#define ColorLvse [UIColor colorWithRed:0/255.0f green:229/255.0f blue:0/255.0f alpha:1.0] //绿色
+#define ColorYoulv [UIColor colorWithRed:0/255.0f green:188/255.0f blue:18/255.0f alpha:1.0] //油绿
+#define ColorLvchen [UIColor colorWithRed:12/255.0f green:137/255.0f blue:24/255.0f alpha:1.0] //绿沉
+#define ColorQingcong [UIColor colorWithRed:10/255.0f green:163/255.0f blue:68/255.0f alpha:1.0] //青葱
+#define ColorCongqing [UIColor colorWithRed:14/255.0f green:184/255.0f blue:58/255.0f alpha:1.0] //葱青
+#define ColorQingcui [UIColor colorWithRed:0/255.0f green:224/255.0f blue:121/255.0f alpha:1.0] //青翠
+#define ColorCaolv [UIColor colorWithRed:64/255.0f green:224/255.0f blue:90/255.0f alpha:1.0] //草绿
+#define ColorDoulv [UIColor colorWithRed:158/255.0f green:208/255.0f blue:72/255.0f alpha:1.0] //豆绿
+#define ColorSonghuase [UIColor colorWithRed:188/255.0f green:230/255.0f blue:114/255.0f alpha:1.0] //松花色
+#define ColorYaluanqing [UIColor colorWithRed:224/255.0f green:238/255.0f blue:232/255.0f alpha:1.0] //鸭卵青
+#define ColorPiao [UIColor colorWithRed:127/255.0f green:236/255.0f blue:173/255.0f alpha:1.0] //缥
+#define ColorFeicuise [UIColor colorWithRed:61/255.0f green:225/255.0f blue:173/255.0f alpha:1.0] //翡翠色
+#define ColorQingse [UIColor colorWithRed:0/255.0f green:224/255.0f blue:158/255.0f alpha:1.0] //青色
+#define ColorSongbailv [UIColor colorWithRed:33/255.0f green:166/255.0f blue:117/255.0f alpha:1.0] //松柏绿
